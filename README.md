@@ -1,0 +1,2 @@
+# LuceneProject
+ 一个使用Lucene包对Enron数据集进行索引与查询的作业项目
